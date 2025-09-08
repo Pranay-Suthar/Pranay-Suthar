@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Java, Python, C++ , C
+- **Languages:** Java, Python, C++ , SQL, Php, c
 - **Frameworks:** Spring Boot, DJango
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA , Hibernate
 
