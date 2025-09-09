@@ -8,9 +8,9 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Java, Python, C++ , SQL, Php, c
+- **Languages:** Java, Python, C++ , SQL, PHP, C
 - **Frameworks:** Spring Boot, DJango
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA , Hibernate
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA , Hibernate, MYSQL
 
 ---
 
