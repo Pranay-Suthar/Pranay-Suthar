@@ -22,4 +22,4 @@
 ---
 
 ## 📢 Connect With Me
-🌐 [LinkedIn](https://www.linkedin.com/in/pranay-suthar/) | 🐦 [instagram](https://www.instagram.com/pranaysuthar_?igsh=MTVkcWlubmJqYjk0Mw==) | ✉️ Email : (pranaymevada57@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/pranay-suthar/) | 🐦 [instagram](https://www.instagram.com/pranaysuthar_?igsh=MTVkcWlubmJqYjk0Mw==) | ✉️ Email : pranaymevada57@gmail.com
