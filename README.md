@@ -15,9 +15,14 @@
 ---
 
 ## 📂 Featured Work
+
 - 📘 [LeetCode Solutions Repo](https://github.com/Pranaysutharnew/DSA-codes/) → Tracking my 52-week challenge  
-- 🛒 Smart Grocery System (**Invenarc) – Backend in Java with secure login, token-based auth, and AI-based sorting (in progress)  
-- 🎓 Academic & practical coding projects  
+
+- 🛒 Smart Grocery System (**Invenarc**) – Backend in Java with secure login, token-based auth, and AI-based sorting (in progress)  
+
+- 🍴 [ZaikaBox](https://github.com/Pranay-Suthar/ZAIKABOX) – A personalized **food recommendation website**, designed to suggest meals based on preferences and smart categorization.  
+
+- 🎓 Academic & practical coding projects
 
 ---
 
