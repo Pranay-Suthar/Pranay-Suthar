@@ -3,7 +3,7 @@
 💻 Passionate about **Data Structures & Algorithms, Backend Development (Java & Spring Boot), and Problem Solving.**  
 📚 Currently pursuing my B.Tech in IT and documenting my **52 Weeks of DSA Challenge.**  
 🌱 Exploring **Recursion, Dynamic Programming, and System Design** while building real-world projects.  
-⚡ Fun fact: I treat debugging like detective work—every bug has a story to tell.  
+⚡ Fun fact: I treat debugging like detective work every bug has a story to tell.  
 
 ---
 
